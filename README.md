@@ -123,7 +123,7 @@ Este projeto contém um script Bash (`manage_warsaw.sh`) desenvolvido para geren
 
 Contribuições são bem-vindas! Para sugerir melhorias ou relatar problemas:
 
-1. Faça um fork do repositório (se hospedado em um serviço como GitHub).
+1. Faça um fork do repositório.
 2. Crie uma branch para suas alterações.
 3. Envie um pull request com uma descrição clara das mudanças.
 
